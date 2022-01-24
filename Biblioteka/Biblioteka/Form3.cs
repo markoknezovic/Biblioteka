@@ -21,5 +21,11 @@ namespace Biblioteka
         {
 
         }
+
+        internal new void Show()
+        {
+    
+        }
     }
+
 }

@@ -31,5 +31,26 @@ namespace Biblioteka
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form3 fm = new Form3();
+            fm.Show();
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 fm = new Form2();
+            fm.Show();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form4 fm = new Form4();
+            fm.Show();
+
+        }
     }
 }

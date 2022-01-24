@@ -16,5 +16,10 @@ namespace Biblioteka
         {
             InitializeComponent();
         }
+
+        internal void show()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

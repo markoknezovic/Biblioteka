@@ -8,3 +8,6 @@ C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.G
 C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
 C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
 C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Form2.resources
+C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Form3.resources
+C:\Users\ucenik\source\repos\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Form4.resources
